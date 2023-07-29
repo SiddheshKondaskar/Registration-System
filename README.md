@@ -26,7 +26,10 @@ This is a simple login and registration system implemented in Python using the T
    ```bash
    python login_system.py
    ```
+## Screenshots
+<div style="display: flex; justify-content: space-between;">
+  <img src="images/1.PNG" alt="Image 1" width="300" height="400">
+  <img src="images/2.PNG" alt="Image 2" width="300" height="400">
+  <img src="images/3.PNG" alt="Image 3" width="400" height="200">
+</div>
 
-
-
-Please note that you would need to save the Python code in a separate file named `login_system.py` in the same repository.
